@@ -1,1 +1,1 @@
-branch A
+branch A AND branch B
